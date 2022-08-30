@@ -1,4 +1,4 @@
-module changeme
+module librolovers
 
 go 1.17
 
